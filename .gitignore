@@ -133,3 +133,4 @@ _Pvt_Extensions
 .paket/paket.exe
 .fake/
 .vscode/settings.json
+.vscode/launch.json
