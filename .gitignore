@@ -132,3 +132,4 @@ FakesAssemblies/
 _Pvt_Extensions
 .paket/paket.exe
 .fake/
+.vscode/settings.json
